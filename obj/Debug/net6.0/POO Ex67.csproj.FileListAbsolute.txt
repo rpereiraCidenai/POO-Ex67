@@ -1,0 +1,15 @@
+D:\CIDENAI\poo\POO Ex67\bin\Debug\net6.0\POO Ex67.exe
+D:\CIDENAI\poo\POO Ex67\bin\Debug\net6.0\POO Ex67.deps.json
+D:\CIDENAI\poo\POO Ex67\bin\Debug\net6.0\POO Ex67.runtimeconfig.json
+D:\CIDENAI\poo\POO Ex67\bin\Debug\net6.0\POO Ex67.dll
+D:\CIDENAI\poo\POO Ex67\bin\Debug\net6.0\POO Ex67.pdb
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.csproj.AssemblyReference.cache
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.AssemblyInfoInputs.cache
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.AssemblyInfo.cs
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.csproj.CoreCompileInputs.cache
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.dll
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\refint\POO Ex67.dll
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.pdb
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\POO Ex67.genruntimeconfig.cache
+D:\CIDENAI\poo\POO Ex67\obj\Debug\net6.0\ref\POO Ex67.dll
